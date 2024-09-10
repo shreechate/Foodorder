@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* img{
+  height: 600px;
+  
+
+} */
+/* Define a custom media query for small screens (e.g., mobile) */
